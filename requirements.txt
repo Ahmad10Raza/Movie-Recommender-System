@@ -1,4 +1,7 @@
 streamlit
-
-
--e .
+numpy
+pandas
+nltk
+scikit-learn
+pickle5
+# -e .
