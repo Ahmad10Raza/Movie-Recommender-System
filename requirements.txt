@@ -1,7 +1,13 @@
 streamlit
-numpy
-pandas
-nltk
-scikit-learn
-pickle5
-# -e .
+
+# here were are going to commnent other packages that we are already  used in our project    
+
+# numpy
+# pandas
+# nltk
+# scikit-learn
+# pickle5
+
+
+# local packages
+ -e .
